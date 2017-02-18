@@ -1,2 +1,2 @@
 # coursera 
-Python Big data - Assigment - 2  solutions
+Introduction to data science with Python - Assignment
